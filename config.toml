@@ -6,7 +6,7 @@ googleAnalytics = ""
 
 [params]
     author = "Masao Sette"
-    description = "Feminist musical band"
+    description = "Feminist musical band for love"
     githubUsername = "epehj"
     accent = "white"
     showBorder = false
