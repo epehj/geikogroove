@@ -3,36 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://geikogroove.com/</loc>
+    <loc>https://geikogroove.github.io/</loc>
     <lastmod>2019-10-29T14:25:02+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://geikogroove.com/medias/</loc>
+    <loc>https://geikogroove.github.io/medias/</loc>
     <lastmod>2019-10-29T11:04:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://geikogroove.com/contact/</loc>
-    <lastmod>2019-10-29T11:03:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://geikogroove.com/about/</loc>
+    <loc>https://geikogroove.github.io/about/</loc>
     <lastmod>2019-10-29T11:03:37+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://geikogroove.com/accueil/</loc>
+    <loc>https://geikogroove.github.io/accueil/</loc>
     <lastmod>2019-10-29T11:03:32+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://geikogroove.com/categories/</loc>
+    <loc>https://geikogroove.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://geikogroove.com/tags/</loc>
+    <loc>https://geikogroove.github.io/tags/</loc>
   </url>
   
 </urlset>
