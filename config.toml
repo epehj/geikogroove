@@ -43,25 +43,20 @@ googleAnalytics = ""
 
 [[menu.icon]]
     url = "mailto:geishagroove.event@gmail.com"
-    name = "envelope-o"
+    name = "fa fa-envelope-o"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
-    name = "github"
+    url = "https://soundcloud.com/geikogroove/"
+    name = "fab fa-soundcloud"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
-    name = "twitter"
+    url = "https://spotify.com/geikogroove/"
+    name = "fab fa-spotify"
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
-    name = "linkedin"
+    url = "https://www.itunes/"
+    name = "fab fa-itunes-note"
     weight = 4
-
-[[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "stack-overflow"
-    weight = 5
