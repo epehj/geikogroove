@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://geikogroove.com/</loc>
+    <lastmod>2019-10-29T11:04:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://geikogroove.com/medias/</loc>
+    <lastmod>2019-10-29T11:04:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://geikogroove.com/contact/</loc>
+    <lastmod>2019-10-29T11:03:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://geikogroove.com/about/</loc>
+    <lastmod>2019-10-29T11:03:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://geikogroove.com/accueil/</loc>
+    <lastmod>2019-10-29T11:03:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://geikogroove.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://geikogroove.com/tags/</loc>
+  </url>
+  
+</urlset>
