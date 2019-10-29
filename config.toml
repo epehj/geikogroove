@@ -18,7 +18,7 @@ googleAnalytics = ""
 	color = "white"
 
 [[menu.main]]
-    url = "/"
+    url = "/accueil"
     name = "Accueil"
     weight = 1
 
