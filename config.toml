@@ -1,12 +1,11 @@
-baseURL = "https://geikogroove.github.io/"
+baseURL = "https://geishagroove.github.io/"
 languageCode = "fr-fr"
-title = "Geiko Groove"
+title = "Geisha Groove"
 theme = "minimal"
 googleAnalytics = ""
 
 [params]
     author = "Masao Sette"
-    description = "Feminist musical band for love"
     githubUsername = "epehj"
     accent = "white"
     showBorder = false
@@ -47,16 +46,21 @@ googleAnalytics = ""
     weight = 1
 
 [[menu.icon]]
-    url = "https://soundcloud.com/geikogroove/"
+    url = "https://soundcloud.com/Geishagroove/"
     name = "fab fa-soundcloud"
     weight = 2
 
 [[menu.icon]]
-    url = "https://spotify.com/geikogroove/"
-    name = "fab fa-spotify"
+    url = "https://youtube.com/Geishagroove/"
+    name = "fab fa-youtube"
     weight = 3
 
-[[menu.icon]]
-    url = "https://www.itunes/"
-    name = "fab fa-itunes-note"
-    weight = 4
+#[[menu.icon]]
+#    url = "https://spotify.com/Geishagroove/"
+#    name = "fab fa-spotify"
+#    weight = 3
+
+#[[menu.icon]]
+#    url = "https://www.itunes/"
+#    name = "fab fa-itunes-note"
+#    weight = 4

@@ -7,6 +7,4 @@ draft: false
 {{< youtube deT9xyWoWJ0 >}}
 
 {{< youtube B3C9Ay6Q7J8 >}}
-![Galerie](/img/g3.jpg)
-![Galerie](/img/g1.jpg)
 ![Galerie](/img/g2.jpg)
