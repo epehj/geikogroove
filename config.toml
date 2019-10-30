@@ -14,7 +14,6 @@ googleAnalytics = ""
     highlight = false
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
-	color = "white"
 
 [[menu.main]]
     url = "/accueil"

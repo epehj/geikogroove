@@ -4,7 +4,6 @@ date: 2019-10-29T14:25:02+01:00
 draft: false
 ---
 
-![Galerie](/img/g3.jpg)
 Geisha Groove est une expérience unique en son genre. C'est un trio Soul / Funk au féminin débordant de savoir faire et d'arrangements fins et sublimés par des interprétations actuelles de grands classiques.
 Ce projet est mené par trois excelletents musiciennes venant de la Réunion, de la Corse et des Philippines qui sont capables de vous faire danser à tout moment. Le trio peut soit être en version soft ou bien version plus lourde, avec batterie, basse et claviers pour plus de bonheur sur le dancefloor.
 
