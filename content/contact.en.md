@@ -3,6 +3,8 @@ title: "Contact"
 date: 2019-10-29T11:03:44+01:00
 draft: true
 ---
+Vous pouvez nous contacter en utilisant le formulaire ci dessous.
+Nous reviendrons vers vous au plus vite !
 
 <form action="https://getform.io/f/0cd4b38d-72b2-4ec3-bd0d-55881d6050ef" method="POST">
 

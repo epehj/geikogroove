@@ -3,7 +3,121 @@ languageCode = "fr-fr"
 title = "Geisha Groove"
 theme = "minimal"
 googleAnalytics = ""
+DefaultContentLanguage = "fr"
 
+[languages]
+    [languages.fr]
+        weight = 1
+        languageName = "FR"
+        title = "/accueil"
+        [[languages.fr.menu.main]]
+            url = "/accueil"
+            name = "Accueil"
+            weight = 1
+        
+        [[languages.fr.menu.main]]
+            url = "/about/"
+            name = "À Propos"
+            weight = 2
+        
+        [[languages.fr.menu.main]]
+            url = "/medias/"
+            name = "Medias"
+            weight = 3
+        
+        [[languages.fr.menu.main]]
+            url = "/contact/"
+            name = "Contact"
+            weight = 4
+        [[languages.fr.menu.icon]]
+            url = "mailto:geishagroove.event@gmail.com"
+            name = "fa fa-envelope-o"
+            weight = 1
+        
+        [[languages.fr.menu.icon]]
+            url = "https://soundcloud.com/Geishagroove/"
+            name = "fab fa-soundcloud"
+            weight = 2
+        
+        [[languages.fr.menu.icon]]
+            url = "https://www.youtube.com/channel/UCP7P9L7Zu4-uL954Bt3Y_2Q/videos"
+            name = "fab fa-youtube"
+            weight = 3
+
+    [languages.en]
+        weight = 2
+        languageName = "EN"
+        title = "/en/accueil"
+        [[languages.en.menu.main]]
+            url = "/en/accueil"
+            name = "Home"
+            weight = 1
+        
+        [[languages.en.menu.main]]
+            url = "/en/about/"
+            name = "About"
+            weight = 2
+        
+        [[languages.en.menu.main]]
+            url = "/en/medias/"
+            name = "Medias"
+            weight = 3
+        
+        [[languages.en.menu.main]]
+            url = "/en/contact/"
+            name = "Contact"
+            weight = 4 
+         [[languages.en.menu.icon]]
+             url = "mailto:geishagroove.event@gmail.com"
+             name = "fa fa-envelope-o"
+             weight = 1
+         
+         [[languages.en.menu.icon]]
+             url = "https://soundcloud.com/Geishagroove/"
+             name = "fab fa-soundcloud"
+             weight = 2
+         
+         [[languages.en.menu.icon]]
+             url = "https://www.youtube.com/channel/UCP7P9L7Zu4-uL954Bt3Y_2Q/videos"
+             name = "fab fa-youtube"
+             weight = 3  
+    [languages.it]
+        weight = 3
+        languageName = "IT"
+        title = "/it/accueil"
+        [[languages.it.menu.main]]
+            url = "/it/accueil"
+            name = "Home"
+            weight = 1
+        
+        [[languages.it.menu.main]]
+            url = "/it/about/"
+            name = "About"
+            weight = 2
+        
+        [[languages.it.menu.main]]
+            url = "/it/medias/"
+            name = "Medias"
+            weight = 3
+        
+        [[languages.it.menu.main]]
+            url = "/it/contact/"
+            name = "Contact"
+            weight = 4
+        [[languages.fr.menu.icon]]
+            url = "mailto:geishagroove.event@gmail.com"
+            name = "fa fa-envelope-o"
+            weight = 1
+
+        [[languages.fr.menu.icon]]
+            url = "https://soundcloud.com/Geishagroove/"
+            name = "fab fa-soundcloud"
+            weight = 2
+
+        [[languages.fr.menu.icon]]
+            url = "https://www.youtube.com/channel/UCP7P9L7Zu4-uL954Bt3Y_2Q/videos"
+            name = "fab fa-youtube"
+            weight = 3
 [params]
     author = "Masao Sette"
     githubUsername = "epehj"
@@ -15,44 +129,11 @@ googleAnalytics = ""
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
-[[menu.main]]
-    url = "/accueil"
-    name = "Accueil"
-    weight = 1
-
-[[menu.main]]
-    url = "/about/"
-    name = "À Propos"
-    weight = 2
-
-[[menu.main]]
-    url = "/medias/"
-    name = "Medias"
-    weight = 3
-
-[[menu.main]]
-    url = "/contact/"
-    name = "Contact"
-    weight = 4
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
 # The list of available icons can be found at http://fontawesome.io/icons.
 
-[[menu.icon]]
-    url = "mailto:geishagroove.event@gmail.com"
-    name = "fa fa-envelope-o"
-    weight = 1
-
-[[menu.icon]]
-    url = "https://soundcloud.com/Geishagroove/"
-    name = "fab fa-soundcloud"
-    weight = 2
-
-[[menu.icon]]
-    url = "https://www.youtube.com/channel/UCP7P9L7Zu4-uL954Bt3Y_2Q/videos"
-    name = "fab fa-youtube"
-    weight = 3
 
 #[[menu.icon]]
 #    url = "https://spotify.com/Geishagroove/"
